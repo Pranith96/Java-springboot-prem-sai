@@ -1,0 +1,9 @@
+package com.functionalInterface;
+
+public class AdditionImpl implements Addition {
+
+	public void add() {
+
+	}
+
+}
